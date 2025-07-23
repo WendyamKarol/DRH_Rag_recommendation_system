@@ -43,7 +43,7 @@ RAG/
 ### 1. Cloner le projet
 ```bash
 git clone [URL_DU_REPO]
-cd DEVOTEAM-RAG
+cd RAG
 ```
 
 ### 2. Créer un environnement virtuel

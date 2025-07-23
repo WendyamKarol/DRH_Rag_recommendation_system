@@ -1,0 +1,35 @@
+======================================================================
+RAPPORT DE RECOMMANDATIONS DE FORMATION
+======================================================================
+
+Employé: Jean Martin
+Date: 07/07/2025
+Score actuel: 65/100
+Niveau de priorité: Moyenne
+
+ÉVALUATION INITIALE:
+--------------------------------------------------
+Compétences techniques satisfaisantes, mais manque d'initiative.
+
+COMPÉTENCES À DÉVELOPPER:
+--------------------------------------------------
+Technique, Autonomie
+
+FORMATIONS RECOMMANDÉES:
+--------------------------------------------------
+
+1. Formation en compétences techniques
+   Type: Programme de formation
+   Durée: 40 heures
+   Pertinence: Cette formation aidera l'employé à renforcer ses compétences techniques dans le domaine des technologies de l'information, ce qui est essentiel pour son rôle actuel. Il pourra également acquérir de nouvelles compétences qui lui permettront de prendre des initiatives.
+
+2. Formation en gestion du changement digital
+   Type: Programme de formation
+   Durée: 30 heures
+   Pertinence: La formation en gestion du changement digital aidera l'employé à comprendre l'importance de l'autonomie dans un environnement numérique en constante évolution. Il lui fournira les outils nécessaires pour s'adapter efficacement aux changements, ce qui favorisera son autonomie et son initiative.
+
+PLAN DE DÉVELOPPEMENT PERSONNALISÉ:
+--------------------------------------------------
+Ce plan de développement se concentrera sur l'amélioration des compétences techniques de l'employé et sur le renforcement de son autonomie et de son initiative. Il s'agira de lui permettre d'acquérir de nouvelles compétences techniques grâce à des formations spécifiques et de le motiver à prendre des initiatives en lui offrant des opportunités de se responsabiliser davantage.
+
+======================================================================

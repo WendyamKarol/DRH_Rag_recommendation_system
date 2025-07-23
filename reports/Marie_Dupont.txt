@@ -1,0 +1,50 @@
+======================================================================
+RAPPORT DE RECOMMANDATIONS DE FORMATION
+======================================================================
+
+Employé: Marie Dupont
+Date: 07/07/2025
+Score actuel: 70/100
+Niveau de priorité: Moyenne
+
+ÉVALUATION INITIALE:
+--------------------------------------------------
+Besoins de renforcer la gestion de projet et la communication.
+
+COMPÉTENCES À DÉVELOPPER:
+--------------------------------------------------
+Gestion Projet, Communication
+
+FORMATIONS RECOMMANDÉES:
+--------------------------------------------------
+
+1. Formation en gestion de projet
+   Type: Programme de formation
+   Durée: 40 heures
+   Pertinence: Cette formation fournira les outils et techniques nécessaires pour planifier, exécuter et finaliser des projets efficacement.
+
+2. Programme de formation en gestion de projet agile
+   Type: Programme de formation
+   Durée: 30 heures
+   Pertinence: Cela aidera à améliorer la réactivité et l'efficacité des équipes projet dans un environnement en constante évolution.
+
+3. Formation en communication
+   Type: Programme de formation
+   Durée: 20 heures
+   Pertinence: Cette formation présente un ensemble de meilleures pratiques en communication, destiné à améliorer les échanges tant internes qu'externes au sein de l'entreprise.
+
+4. Programme de formation en gestion de projets innovants
+   Type: Programme de formation
+   Durée: 30 heures
+   Pertinence: Cette formation encourage la créativité et l'expérimentation, en intégrant des méthodologies de prototypage rapide et des techniques de brainstorming.
+
+5. Formation en gestion des risques
+   Type: Programme de formation
+   Durée: 25 heures
+   Pertinence: Cette formation propose des méthodes d'identification, d'évaluation et de mitigation des risques dans les projets, afin d'assurer une meilleure résilience organisationnelle.
+
+PLAN DE DÉVELOPPEMENT PERSONNALISÉ:
+--------------------------------------------------
+Le plan de développement consistera à renforcer les compétences en gestion de projet et communication. Cela sera accompli en proposant plusieurs formations ciblées pour traiter les lacunes identifiées. Ces formations permettront d'améliorer l'efficacité en termes de gestion de projet, en adoptant des méthodes agiles, en encourageant l'innovation et en gérant efficacement les risques. En parallèle, une formation sur les meilleures pratiques en communication aidera à améliorer les échanges au sein de l'entreprise.
+
+======================================================================

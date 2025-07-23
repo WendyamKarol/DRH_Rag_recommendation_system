@@ -1,0 +1,40 @@
+======================================================================
+RAPPORT DE RECOMMANDATIONS DE FORMATION
+======================================================================
+
+Employé: Claire Laurent
+Date: 07/07/2025
+Score actuel: 72/100
+Niveau de priorité: Moyenne
+
+ÉVALUATION INITIALE:
+--------------------------------------------------
+Bonne maîtrise des outils informatiques, renforcer la gestion du stress.
+
+COMPÉTENCES À DÉVELOPPER:
+--------------------------------------------------
+Technique, Stress
+
+FORMATIONS RECOMMANDÉES:
+--------------------------------------------------
+
+1. Formation en compétences techniques
+   Type: Programme de formation
+   Durée: 20 heures
+   Pertinence: Améliorer les compétences techniques de l'employé et combler les lacunes identifiées lors de l'évaluation.
+
+2. Formation en gestion du stress
+   Type: Programme de formation
+   Durée: 15 heures
+   Pertinence: Aider l'employé à identifier les sources de stress et à adopter des stratégies pour y faire face de manière efficace.
+
+3. Formation en développement personnel
+   Type: Programme de formation
+   Durée: 15 heures
+   Pertinence: Renforcer la confiance en soi de l'employé, améliorer sa communication et sa capacité à travailler en équipe.
+
+PLAN DE DÉVELOPPEMENT PERSONNALISÉ:
+--------------------------------------------------
+Pour renforcer les compétences techniques de l'employé et améliorer sa gestion du stress, un programme de formation complet est recommandé. Il comprendra des cours de développement technique, de gestion du stress et de développement personnel pour améliorer la confiance en soi.
+
+======================================================================

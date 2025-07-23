@@ -1,0 +1,50 @@
+======================================================================
+RAPPORT DE RECOMMANDATIONS DE FORMATION
+======================================================================
+
+Employé: Nicolas Robert
+Date: 07/07/2025
+Score actuel: 66/100
+Niveau de priorité: Moyenne
+
+ÉVALUATION INITIALE:
+--------------------------------------------------
+Peut améliorer la qualité des livrables et l'organisation.
+
+COMPÉTENCES À DÉVELOPPER:
+--------------------------------------------------
+Gestion Projet
+
+FORMATIONS RECOMMANDÉES:
+--------------------------------------------------
+
+1. Formation en gestion de projet
+   Type: Programme de formation
+   Durée: 40 heures
+   Pertinence: Cette formation donnera à l'employé les outils nécessaires pour planifier, exécuter et finaliser des projets efficacement et de manière organisée.
+
+2. Formation en gestion de projet Agile
+   Type: Programme de formation
+   Durée: 20 heures
+   Pertinence: L'approche Agile aidera l'employé à améliorer la réactivité et l'efficacité de l'équipe projet dans un environnement en constante évolution.
+
+3. Formation en gestion de la qualité totale
+   Type: Programme de formation
+   Durée: 30 heures
+   Pertinence: Cette formation aidera l'employé à mettre en place des contrôles qualité rigoureux et à optimiser les processus pour atteindre l'excellence en matière de livrables.
+
+4. Formation en optimisation de la supply chain
+   Type: Programme de formation
+   Durée: 25 heures
+   Pertinence: Cette formation permettra à l'employé d'améliorer la coordination entre les différents maillons logistiques, réduisant ainsi les délais et optimisant la gestion des stocks.
+
+5. Étude de cas sur la restructuration organisationnelle
+   Type: Document d'apprentissage
+   Durée: 10 heures
+   Pertinence: Cette étude de cas offre une perspective pratique sur l'application des compétences acquises et aide à comprendre les défis de la compétitivité et les changements organisationnels.
+
+PLAN DE DÉVELOPPEMENT PERSONNALISÉ:
+--------------------------------------------------
+Le plan de développement pour cet employé vise à améliorer ses compétences en gestion de projet et en qualité des livrables. Il implique une formation intensive sur les méthodes de gestion de projet, y compris les approches Agile et la gestion de la qualité. Cela serait complété par un cours sur l'optimisation de la supply chain pour améliorer l'organisation générale du travail. Enfin, une étude de cas sur la restructuration organisationnelle serait utilisée pour renforcer les compétences acquises et offrir une perspective pratique.
+
+======================================================================

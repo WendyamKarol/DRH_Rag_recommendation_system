@@ -1,0 +1,254 @@
+[
+  {
+    "employe": "Marie Dupont",
+    "evaluation": "Besoins de renforcer la gestion de projet et la communication.",
+    "score": 70
+  },
+  {
+    "employe": "Jean Martin",
+    "evaluation": "Compétences techniques satisfaisantes, mais manque d'initiative.",
+    "score": 65
+  },
+  {
+    "employe": "Lucie Petit",
+    "evaluation": "Excellente capacité d'adaptation, mais peut améliorer la rigueur.",
+    "score": 80
+  },
+  {
+    "employe": "Paul Durand",
+    "evaluation": "Manque de proactivité et de leadership.",
+    "score": 60
+  },
+  {
+    "employe": "Sophie Bernard",
+    "evaluation": "Bonnes compétences interpersonnelles, améliorer la gestion du temps.",
+    "score": 75
+  },
+  {
+    "employe": "Antoine Moreau",
+    "evaluation": "Fort potentiel en analyse, mais besoin d'un accompagnement en communication.",
+    "score": 68
+  },
+  {
+    "employe": "Claire Laurent",
+    "evaluation": "Bonne maîtrise des outils informatiques, renforcer la gestion du stress.",
+    "score": 72
+  },
+  {
+    "employe": "Nicolas Robert",
+    "evaluation": "Peut améliorer la qualité des livrables et l'organisation.",
+    "score": 66
+  },
+  {
+    "employe": "Isabelle Girard",
+    "evaluation": "Excellente gestion de projet et aptitude à manager une équipe.",
+    "score": 85
+  },
+  {
+    "employe": "Julien Lefevre",
+    "evaluation": "Manque de vision stratégique et de suivi rigoureux.",
+    "score": 62
+  },
+  {
+    "employe": "Audrey Morel",
+    "evaluation": "Bonne communication, mais à renforcer en gestion de conflit.",
+    "score": 70
+  },
+  {
+    "employe": "Thomas Dupuis",
+    "evaluation": "Compétences techniques à parfaire et communication à développer.",
+    "score": 64
+  },
+  {
+    "employe": "Camille Simon",
+    "evaluation": "Très bonne adaptabilité et réactivité, à encourager.",
+    "score": 78
+  },
+  {
+    "employe": "Mathieu Renault",
+    "evaluation": "Doit améliorer la planification et l'organisation de son travail.",
+    "score": 63
+  },
+  {
+    "employe": "Emma Gauthier",
+    "evaluation": "Solide dans ses connaissances techniques, manque de flexibilité.",
+    "score": 68
+  },
+  {
+    "employe": "Alexandre Faure",
+    "evaluation": "Excellente capacité à travailler en équipe, pourrait mieux gérer le stress.",
+    "score": 76
+  },
+  {
+    "employe": "Chloé Mercier",
+    "evaluation": "Peut améliorer la gestion de priorités et la communication interne.",
+    "score": 69
+  },
+  {
+    "employe": "Maxime Dupont",
+    "evaluation": "Bon relationnel, mais doit développer ses compétences en leadership.",
+    "score": 71
+  },
+  {
+    "employe": "Laura Caron",
+    "evaluation": "Besoin de formation en gestion du temps et en organisation.",
+    "score": 66
+  },
+  {
+    "employe": "Vincent Lemaire",
+    "evaluation": "Performances solides, mais manque d'initiative sur des projets innovants.",
+    "score": 74
+  },
+  {
+    "employe": "Marion Legrand",
+    "evaluation": "Très bonne capacité d'analyse, à renforcer en communication.",
+    "score": 77
+  },
+  {
+    "employe": "Florian Perrot",
+    "evaluation": "Doit améliorer sa réactivité face aux imprévus.",
+    "score": 63
+  },
+  {
+    "employe": "Elise Marchand",
+    "evaluation": "Bonne capacité de synthèse, à améliorer en gestion des priorités.",
+    "score": 70
+  },
+  {
+    "employe": "Guillaume Dupuis",
+    "evaluation": "Besoin d'un accompagnement en management et en prise de décision.",
+    "score": 65
+  },
+  {
+    "employe": "Amélie Roussel",
+    "evaluation": "Excellente maîtrise des outils de travail collaboratif, à encourager.",
+    "score": 82
+  },
+  {
+    "employe": "Benoît Lefebvre",
+    "evaluation": "Peut améliorer son autonomie et son sens de l'initiative.",
+    "score": 67
+  },
+  {
+    "employe": "Juliette Fournier",
+    "evaluation": "Compétences techniques solides, à renforcer en communication.",
+    "score": 73
+  },
+  {
+    "employe": "Sébastien Robert",
+    "evaluation": "Manque de rigueur dans l'organisation du travail.",
+    "score": 60
+  },
+  {
+    "employe": "Céline Rolland",
+    "evaluation": "Bon sens de l'analyse, mais doit travailler sur la gestion du stress.",
+    "score": 71
+  },
+  {
+    "employe": "Eric Petit",
+    "evaluation": "Bonne capacité à résoudre des problèmes, à améliorer en leadership.",
+    "score": 75
+  },
+  {
+    "employe": "Valérie Giraud",
+    "evaluation": "Excellente communication, mais besoin de renforcer les compétences techniques.",
+    "score": 68
+  },
+  {
+    "employe": "Adrien Noël",
+    "evaluation": "Doit améliorer la gestion des imprévus et la planification.",
+    "score": 64
+  },
+  {
+    "employe": "Aurélie Carpentier",
+    "evaluation": "Très bonne adaptabilité, à renforcer en gestion de projet.",
+    "score": 78
+  },
+  {
+    "employe": "Didier Marchal",
+    "evaluation": "Peut améliorer sa proactivité et son autonomie.",
+    "score": 66
+  },
+  {
+    "employe": "Sandrine Baron",
+    "evaluation": "Excellentes compétences relationnelles, à encourager.",
+    "score": 80
+  },
+  {
+    "employe": "Pascal Dupont",
+    "evaluation": "Manque de clarté dans la communication et la prise de décision.",
+    "score": 62
+  },
+  {
+    "employe": "Julie Lambert",
+    "evaluation": "Bonne maîtrise des outils numériques, à améliorer en gestion de projet.",
+    "score": 73
+  },
+  {
+    "employe": "Olivier Caron",
+    "evaluation": "Doit renforcer sa capacité à prioriser les tâches.",
+    "score": 65
+  },
+  {
+    "employe": "Nathalie Faivre",
+    "evaluation": "Compétences techniques et relationnelles équilibrées, bon potentiel.",
+    "score": 77
+  },
+  {
+    "employe": "Romain Marchand",
+    "evaluation": "Besoin d'améliorer l'organisation et la gestion du temps.",
+    "score": 63
+  },
+  {
+    "employe": "Manon Gauthier",
+    "evaluation": "Très bonne gestion de la communication interne, à développer en leadership.",
+    "score": 76
+  },
+  {
+    "employe": "Christophe Dupuis",
+    "evaluation": "Peut améliorer son autonomie et la qualité des livrables.",
+    "score": 68
+  },
+  {
+    "employe": "Sarah Lambert",
+    "evaluation": "Excellente capacité d'analyse, à renforcer en gestion de projet.",
+    "score": 80
+  },
+  {
+    "employe": "Laurent Morel",
+    "evaluation": "Manque de dynamisme et d'initiative, formation recommandée.",
+    "score": 61
+  },
+  {
+    "employe": "Justine Renaud",
+    "evaluation": "Bonne réactivité et adaptabilité, à encourager.",
+    "score": 75
+  },
+  {
+    "employe": "Marc Lemoine",
+    "evaluation": "Doit améliorer la gestion du stress et la communication.",
+    "score": 64
+  },
+  {
+    "employe": "Eva Dumas",
+    "evaluation": "Excellente compréhension des processus, à développer en leadership.",
+    "score": 79
+  },
+  {
+    "employe": "Thierry Simon",
+    "evaluation": "Besoin de renforcer la prise de décision et la gestion de conflit.",
+    "score": 66
+  },
+  {
+    "employe": "Agnès Noël",
+    "evaluation": "Bonne capacité à collaborer en équipe, à améliorer en autonomie.",
+    "score": 70
+  },
+  {
+    "employe": "Didier Bernard",
+    "evaluation": "Excellentes compétences techniques, formation en management recommandée.",
+    "score": 82
+  }
+]
+
+

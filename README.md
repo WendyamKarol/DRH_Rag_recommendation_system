@@ -186,4 +186,3 @@ Pour toute question :
 
 ---
 
-✅ **Développé pour Devoteam - Test Technique**
